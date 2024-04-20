@@ -1,1 +1,1 @@
-js scrambler deobfuscator
+javascript deobfuscator (js scrambler)
