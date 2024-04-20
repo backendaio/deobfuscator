@@ -1,1 +1,1 @@
-# js-scrambler-deobfuscator
+js scrambler deobfuscator
