@@ -1,0 +1,3 @@
+1. if one of the conditional case is the return case then choose the one that is not the return case 
+2. logical expression !== -1 always choose the false case 
+3. ? 1 : 1 both cases are the same
